@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  movetone:
     build: .
     ports:
       - 80:80
